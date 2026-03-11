@@ -1,0 +1,136 @@
+{
+  "nav": {
+    "features": "Funcionalidades",
+    "howItWorks": "Como Funciona",
+    "pricing": "Preços",
+    "faq": "FAQ",
+    "cta": "Experimentar Grátis"
+  },
+  "hero": {
+    "title": "Relatórios financeiros profissionais",
+    "titleHighlight": "em minutos",
+    "subtitle": "Transforme ficheiros Excel em relatórios PDF, PowerPoint e Word — automaticamente, com inteligência artificial.",
+    "cta": "Experimentar Grátis",
+    "secondaryCta": "Ver Como Funciona",
+    "badge": "Powered by AI"
+  },
+  "problem": {
+    "title": "O problema que resolvemos",
+    "subtitle": "As equipas financeiras perdem horas preciosas em tarefas repetitivas. Nós automatizamos isso.",
+    "problems": {
+      "title1": "Horas perdidas",
+      "desc1": "Formatação manual de relatórios consome tempo que devia ser usado em análise estratégica.",
+      "title2": "Erros manuais",
+      "desc2": "Copiar dados entre ferramentas introduz inconsistências e erros difíceis de detetar.",
+      "title3": "Formatação repetitiva",
+      "desc3": "Recriar o mesmo layout e gráficos todas as semanas é tedioso e improdutivo."
+    },
+    "solutions": {
+      "title1": "Automático",
+      "desc1": "Upload do ficheiro e o relatório é gerado em segundos, sem intervenção manual.",
+      "title2": "Consistente",
+      "desc2": "Os dados são processados com precisão — sem erros de cópia ou formatação.",
+      "title3": "Profissional",
+      "desc3": "Templates de nível consultoria (McKinsey, KPMG) aplicados automaticamente."
+    }
+  },
+  "howItWorks": {
+    "title": "Como funciona",
+    "subtitle": "Três passos simples para transformar os seus dados em relatórios profissionais.",
+    "step1": {
+      "title": "Upload do ficheiro",
+      "desc": "Carregue o seu ficheiro Excel ou CSV na plataforma."
+    },
+    "step2": {
+      "title": "Análise com IA",
+      "desc": "A plataforma analisa os dados e gera insights automaticamente."
+    },
+    "step3": {
+      "title": "Download do relatório",
+      "desc": "Descarregue o relatório pronto em PDF, PowerPoint ou Word."
+    }
+  },
+  "features": {
+    "title": "Funcionalidades principais",
+    "subtitle": "Tudo o que precisa para gerar relatórios financeiros profissionais.",
+    "items": {
+      "adaptive": {
+        "title": "Análise adaptativa",
+        "desc": "Deteta automaticamente o tipo de dados e adapta a análise ao contexto financeiro."
+      },
+      "formats": {
+        "title": "Múltiplos formatos",
+        "desc": "Exporte em PDF, PowerPoint e Word — o formato que a sua equipa precisar."
+      },
+      "charts": {
+        "title": "Gráficos automáticos",
+        "desc": "Gráficos e tabelas gerados automaticamente a partir dos seus dados."
+      },
+      "templates": {
+        "title": "Templates profissionais",
+        "desc": "Layouts de nível McKinsey, KPMG e Big4 aplicados automaticamente."
+      },
+      "insights": {
+        "title": "Insights com IA",
+        "desc": "Análises e recomendações geradas por inteligência artificial."
+      },
+      "multilang": {
+        "title": "Multi-idioma",
+        "desc": "Relatórios em Português e Inglês, com tradução automática."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Planos e preços",
+    "subtitle": "Escolha o plano ideal para a sua equipa.",
+    "monthly": "/mês",
+    "popular": "Mais Popular",
+    "cta": "Começar Agora",
+    "contact": "Contactar Vendas",
+    "starter": {
+      "name": "Starter",
+      "target": "Freelancers / PMEs",
+      "price": "50",
+      "features": ["Até 10 relatórios/mês", "Formato PDF", "Insights básicos com IA", "Suporte por email"]
+    },
+    "professional": {
+      "name": "Professional",
+      "target": "Equipas financeiras",
+      "price": "100",
+      "features": ["Relatórios ilimitados", "PDF + PowerPoint + Word", "Insights completos com IA", "Suporte prioritário", "Templates premium"]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "target": "Grandes organizações",
+      "price": "300",
+      "features": ["Relatórios ilimitados", "Todos os formatos + personalizado", "Insights completos + API", "Suporte dedicado", "Templates personalizados", "Onboarding dedicado"]
+    }
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "subtitle": "Respostas às dúvidas mais comuns sobre a plataforma.",
+    "items": {
+      "q1": "Que formatos de ficheiro aceita?",
+      "a1": "Aceitamos ficheiros Excel (.xlsx, .xls) e CSV. Basta fazer upload e a plataforma processa automaticamente.",
+      "q2": "Os meus dados estão seguros?",
+      "a2": "Sim. Todos os dados são encriptados em trânsito e em repouso. Não partilhamos nem armazenamos os seus dados para além do necessário para gerar o relatório.",
+      "q3": "Preciso de instalar alguma coisa?",
+      "a3": "Não. O CFO-AI funciona 100% no browser. Basta aceder à plataforma, fazer login e começar a gerar relatórios.",
+      "q4": "Posso personalizar os templates?",
+      "a4": "Sim. No plano Professional e Enterprise pode personalizar cores, logos e layouts dos templates para refletir a identidade da sua empresa.",
+      "q5": "Quanto tempo demora a gerar um relatório?",
+      "a5": "Em média, menos de 60 segundos. Dependendo do volume de dados, pode demorar até 2 minutos para relatórios mais complexos.",
+      "q6": "Posso cancelar a qualquer momento?",
+      "a6": "Sim. Sem compromisso. Pode cancelar ou mudar de plano a qualquer momento, sem custos adicionais."
+    }
+  },
+  "footer": {
+    "ctaTitle": "Pronto para automatizar os seus relatórios?",
+    "ctaSubtitle": "Comece hoje e poupe horas todas as semanas.",
+    "cta": "Experimentar Grátis",
+    "contact": "Contacto",
+    "terms": "Termos",
+    "privacy": "Privacidade",
+    "rights": "Todos os direitos reservados."
+  }
+}
