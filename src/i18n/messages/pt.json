@@ -90,20 +90,20 @@
     "starter": {
       "name": "Starter",
       "target": "Freelancers / PMEs",
-      "price": "50",
-      "features": ["Até 10 relatórios/mês", "Formato PDF", "Insights básicos com IA", "Suporte por email"]
+      "price": "39",
+      "features": ["Até 10 relatórios/mês", "Formato PDF", "Dashboard básico (KPIs)", "20 perguntas IA Chat/mês", "Resumo básico de insights IA", "1 ficheiro por análise", "Suporte por email (48h)"]
     },
     "professional": {
       "name": "Professional",
       "target": "Equipas financeiras",
-      "price": "100",
-      "features": ["Relatórios ilimitados", "PDF + PowerPoint + Word", "Insights completos com IA", "Suporte prioritário", "Templates premium"]
+      "price": "89",
+      "features": ["Até 50 relatórios/mês", "Formato PDF", "Dashboard completo (gráficos + cenários)", "IA Chat ilimitado", "Insights completos (benchmarks + cenários)", "Multi-ficheiro", "Suporte email prioritário (24h)"]
     },
     "enterprise": {
       "name": "Enterprise",
       "target": "Grandes organizações",
-      "price": "300",
-      "features": ["Relatórios ilimitados", "Todos os formatos + personalizado", "Insights completos + API", "Suporte dedicado", "Templates personalizados", "Onboarding dedicado"]
+      "price": "249",
+      "features": ["Relatórios ilimitados", "PDF + formatos personalizados*", "Dashboard completo + exportação dados", "IA Chat ilimitado + contexto histórico", "Insights completos + API de integração*", "Multi-ficheiro + automação*", "Suporte dedicado + onboarding"]
     }
   },
   "faq": {

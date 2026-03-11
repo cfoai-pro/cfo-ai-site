@@ -90,20 +90,20 @@
     "starter": {
       "name": "Starter",
       "target": "Freelancers / SMBs",
-      "price": "50",
-      "features": ["Up to 10 reports/month", "PDF format", "Basic AI insights", "Email support"]
+      "price": "39",
+      "features": ["Up to 10 reports/month", "PDF format", "Basic dashboard (KPIs)", "20 AI Chat questions/month", "Basic AI insights summary", "1 file per analysis", "Email support (48h)"]
     },
     "professional": {
       "name": "Professional",
       "target": "Finance teams",
-      "price": "100",
-      "features": ["Unlimited reports", "PDF + PowerPoint + Word", "Full AI insights", "Priority support", "Premium templates"]
+      "price": "89",
+      "features": ["Up to 50 reports/month", "PDF format", "Full dashboard (charts + scenarios)", "Unlimited AI Chat", "Full insights (benchmarks + scenarios)", "Multi-file", "Priority email support (24h)"]
     },
     "enterprise": {
       "name": "Enterprise",
       "target": "Large organizations",
-      "price": "300",
-      "features": ["Unlimited reports", "All formats + custom", "Full insights + API", "Dedicated support", "Custom templates", "Dedicated onboarding"]
+      "price": "249",
+      "features": ["Unlimited reports", "PDF + custom formats*", "Full dashboard + data export", "Unlimited AI Chat + historical context", "Full insights + integration API*", "Multi-file + automation*", "Dedicated support + onboarding"]
     }
   },
   "faq": {
